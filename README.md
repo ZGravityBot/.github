@@ -1,4 +1,4 @@
-# 🤖 GravityBot (ZGravityBot)
+# <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/779be3a8-84c7-4c5e-bc84-594a81e50e5b" />   GravityBot (ZGravityBot)
 ### The Automated Engine of Zane Authors
 
 GravityBot is a high-performance automation bot designed to streamline the software development lifecycle for the **Zane Authors** team. Leveraging the power of Google's **Gemini AI**, it bridges the gap between automated efficiency and human creativity.
